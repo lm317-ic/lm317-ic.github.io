@@ -40,3 +40,7 @@ table.absmax th {
 	height: 40px;
 	color: white;
 }
+
+.calc_btn:hover{
+	background: grey;
+}
